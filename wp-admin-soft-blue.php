@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP admin soft blue 
-Plugin URI: http://github.com/electro_mind/wp-admin-soft-blue
+Plugin URI: http://github.com/Electro-mind/wp-admin-soft-blue
 Description: Simple dashboard theme to enjoy using wordpress!
 Author: Amirhossein Mirkazemi
 Version: 1.0
