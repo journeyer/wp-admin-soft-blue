@@ -75,11 +75,12 @@ a {
 }
 
 #wpadminbar .quicklinks .menupop.hover ul li a:focus,
+#wpadminbar .quicklinks .menupop.hover ul li a:hover,
 a:hover,
 a:focus {
   -webkit-box-shadow: none;
   box-shadow: none;
-  color: #0078D7 !important;
+  color: #0078D7;
 }
 
 #wp-content-editor-tools {
